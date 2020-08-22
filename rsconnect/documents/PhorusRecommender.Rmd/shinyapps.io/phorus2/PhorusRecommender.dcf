@@ -1,0 +1,12 @@
+name: PhorusRecommender
+title: PhorusRecommender
+username:
+account: phorus2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2645491
+bundleId: 3489119
+url: https://phorus2.shinyapps.io/PhorusRecommender/
+when: 1596842528.61317
+asMultiple: FALSE
+asStatic: FALSE
